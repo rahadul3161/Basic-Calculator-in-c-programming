@@ -20,3 +20,4 @@ int main(){
         printf("Invalid operator! Use (+, -, * or /)");
     return 0;
 }
+
